@@ -1,0 +1,12 @@
+{
+  "name": "dio-jogo-classe",
+  "version": "1.0.0",
+  "description": "Desafio - Escrevendo as Classes de Um Jogo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
